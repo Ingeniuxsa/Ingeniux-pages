@@ -4,7 +4,7 @@
 }
 
 .nav-main a{
-  color: green;
+  color: green; 
 }
 
 .nav-main .small-logo{
